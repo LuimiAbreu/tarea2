@@ -1,0 +1,152 @@
+body {
+	margin: 0 auto;
+	width: 2005px;
+	height: 2400px;
+	margin-top: 10px;
+	padding-top: 30px;
+	padding: 30px;
+	background: url(../images/background.jpg);
+}
+
+.logo {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	transform: scale(.9);
+}
+/*aqui comienza el menu de navegacion*/
+.nav {
+	text-align: center;
+	width: 2000px;
+	height: 60px;
+	font-size: .75em;
+}
+.nav ul li {
+	position: relative;
+	display: inline-block;
+	float: center;
+	padding-right: 30px;
+}
+.nav ul li a:hover {
+	color: white;
+	background-color: black;
+	padding: 1px 10px 1px 10px;
+}
+/*aqui comienza la info de saul bass*/
+#titulosaul {
+	z-index: 1;
+	position: absolute;
+	margin-left: -150px;
+
+}
+#sauljpg {
+	position: relative;
+	display: inline-block;
+	margin-left: 200px;
+}
+#saultext {
+	width: 600px;
+	height: 260px;
+	color: white;
+	position: relative;
+	margin-left: 1000px;
+	margin-top: -600px;
+}
+nav {
+   text-align: center;
+   margin-left: 550px;
+}
+button {
+   border-top: 1px solid #96d1f8;
+   background: #ffffff;
+   background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#ffffff));
+   background: -webkit-linear-gradient(top, #ffffff, #ffffff);
+   background: -moz-linear-gradient(top, #ffffff, #ffffff);
+   background: -ms-linear-gradient(top, #ffffff, #ffffff);
+   background: -o-linear-gradient(top, #ffffff, #ffffff);
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #000000;
+   font-size: 21px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+button:hover {
+   border-top-color: #000000;
+   background: #000000;
+   color: #ffffff;
+   }
+button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+   
+   /*aqui comienza kyle cooper*/
+
+.kylecooper {
+	margin-top: 500px;
+}
+
+ #titulokyle {
+
+	z-index: 1;
+	position: absolute;
+	margin-left: -1525px;
+	margin-top: -50px;
+
+}
+#kylejpg {
+	position: relative;
+	display: inline-block;
+	margin-left: 1100px;
+	margin-top: -300px;
+}
+#kyletext {
+	width: 600px;
+	height: 260px;
+	color: white;
+	position: relative;
+	margin-left: 300px;
+	margin-top: -400px;
+}
+.cooper {
+   text-align: center;
+   margin-left: -900px;
+   margin-top: 50px;
+}
+#footer {
+	background-color: black;
+	margin: 0 auto;
+	width: 100%;
+	height: 200px;
+	margin-top: 300px;
+	
+
+
+}
+p {color:white;}
+
+.luimi {
+	margin-left: 900px;
+	font-size: 1.5em;
+	margin-top: 50px;
+	position: relative;
+
+
+}
+.logocha {
+	margin-left: 700px;
+	transform: scale(.4);
+	margin-top: 10px;
+
+
+}
+
+
+

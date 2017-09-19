@@ -1,0 +1,43 @@
+body {
+	margin: 0 auto;
+	width: 2005px;
+	height: 1000px;
+	margin-top: 10px;
+	padding-top: 30px;
+	padding: 30px;
+	background: url(../images/background.jpg);
+}
+
+.logo {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	transform: scale(1.6);
+	margin-top: 400px;
+}
+/*aqui comienza el menu de navegacion*/
+.nav {
+	text-align: center;
+	width: 2000px;
+	height: 60px;
+	font-size: .75em;
+}
+.nav ul li {
+	position: relative;
+	display: inline-block;
+	float: center;
+	padding-right: 30px;
+}
+.nav ul li a:hover {
+	color: white;
+	background-color: black;
+	padding: 1px 10px 1px 10px;
+}
+.info {
+	margin: 0auto;
+	position: absolute;
+	margin-left: 840px;
+	transform: scale(1.9);
+	margin-top: 100px;
+
+}
